@@ -1,0 +1,15 @@
+{
+    "users":
+    [
+        {
+            "id":1,
+            "nama":"hikma",
+            "email":"hikmatiarama@gmail.com"
+        },
+        {
+            "id":2,
+            "nama":"hikma",
+            "email":"hikmatiarama@gmail.com"
+        }
+    ]
+}
